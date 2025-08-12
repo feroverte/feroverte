@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-![CMD Animation](./CMDVideoNamig-Clipchamp.gif)
+<img src="./CMDVideoNamig-Clipchamp.gif" alt="CMD Animation" width="800" height="600" />
+
 

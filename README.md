@@ -5,3 +5,5 @@
 <img src="./CMDVideoNamig-Clipchamp.gif" alt="CMD Animation" width="800" height="600" />
 
 
+## Skills & Technologies
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,anaconda,googlecolab,django,spark,scikitlearn,tableau,postgresql,mysql,js,threejs,vite,api,html,css,tailwindcss,gsap,c,cpp,cs,dotnet,autocad,assembly,bash,docker,kubernetes,postman,gcp,github,git,gitbash,wireshark,vmwareworkstation,windows,linux,debian,kali)
